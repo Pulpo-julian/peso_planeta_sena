@@ -1,0 +1,18 @@
+
+
+body {
+    /*padding: 10px;
+    margin: 40px;*/
+    font-size: 24px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://starwalk.space/gallery/images/june-2020-planet-parade-what-is-it-and-how-can-you-see-it/1920x1080);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+nav {
+    background-color: rgba(70, 70, 138, 0.842);
+    padding: 0px;
+    color: rgba(202, 101, 54, 0.911);
+}
