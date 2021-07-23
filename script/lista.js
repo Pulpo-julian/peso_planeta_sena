@@ -44,4 +44,5 @@ if (planeta == 1) {
     nombre = "kripton";
 }
 
-document.write("tu peso en ", nombre, " es de <strong>", usuario, " kilogramos </strong> ");
+document.getElementById("parrafo").innerHTML = "tu peso en " + nombre + " es de <strong>" + usuario + " kilogramos </strong>";
+

@@ -11,6 +11,11 @@ body {
     background-size: auto;
 }
 
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
 nav {
     background-color: rgba(70, 70, 138, 0.842);
     padding: 0px;
