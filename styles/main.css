@@ -16,6 +16,10 @@ body {
     margin: 0 auto;
 }
 
+#parrafo {
+    text-align: center;
+}
+
 nav {
     background-color: rgba(70, 70, 138, 0.842);
     padding: 0px;
